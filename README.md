@@ -8,6 +8,6 @@ This project aims to offer convertors for some specific networks, like `MobileNe
 Please refer to specific `README.md` for the usages.
 
 # Support
-|Network|   From|     To|   Code Folder|
-|:----------------|----------------:|----------------:|----------------:|
-|MobileNets|TensorFlow|Caffe2|mobilenets-tensorflow-to-caffe2|
+|Network|   From|     To|   Code Folder|Detail|
+|:----------------|----------------:|----------------:|----------------:|----------------:|
+|MobileNets|TensorFlow|Caffe2|mobilenets-tensorflow-to-caffe2|[TensorFlow 到 Caffe2 的 MobileNets 转换器](https://lhcheung1991.github.io/blogs/2017/08/24/convert-mobilenet-from-tensorflow-to-caffe2.html)|

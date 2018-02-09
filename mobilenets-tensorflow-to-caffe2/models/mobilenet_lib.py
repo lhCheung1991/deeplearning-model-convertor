@@ -5,7 +5,7 @@ from __future__ import print_function
 import tensorflow as tf
 from functools import wraps
 
-import mobilenet_v1
+from models import mobilenet_v1
 
 
 def mobilenet_factory(depth_multiplier=1.0, default_image_size=224, scope="MobilenetV1"):
